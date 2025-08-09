@@ -156,7 +156,7 @@ me.say_hi()
 <img src="https://img.shields.io/badge/📈_Power_BI_Portfolio-Business_Intelligence-F2C811?style=for-the-badge&logo=power-bi&logoColor=black&labelColor=1f2937" />
 </a>
 
-<a href="https://www.kaggle.com/mohamedmakki0749" target="_blank">
+<a href="https://www.kaggle.com/mohamedmakkiabdelaal" target="_blank">
 <img src="https://img.shields.io/badge/🏆_Kaggle_Profile-Data_Science_Competitions-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=1f2937" />
 </a>
 
