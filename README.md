@@ -211,7 +211,7 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mohamed-makki-9a9408251/" target="_blank">
+<a href="https://www.linkedin.com/in/mohamed-makki-ab5a10302/" target="_blank">
 <img src="https://img.shields.io/badge/💼_LinkedIn-Connect_&_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1f2937" />
 </a>
 
