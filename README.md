@@ -223,7 +223,7 @@ me.say_hi()
 <img src="https://img.shields.io/badge/📧_Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1f2937" />
 </a>
 
-<a href="https://www.kaggle.com/mohamedmakki0749" target="_blank">
+<a href="https://www.kaggle.com/mohamedmakkiabdelaal" target="_blank">
 <img src="https://img.shields.io/badge/🏆_Kaggle-Data_Science_Hub-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=1f2937" />
 </a>
 
